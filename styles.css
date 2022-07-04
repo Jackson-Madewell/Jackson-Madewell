@@ -1,0 +1,139 @@
+html {
+    min-height: 150%;
+    background-image: url(https://images.musement.com/cover/0146/10/zion-national-park_header-14509262.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.utah {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 3%;
+}
+
+h1 {
+    color: white;
+    font: normal normal normal 70px/1 FontAwesome;
+    text-align: center;
+
+}
+
+.hex {
+    margin: -10px;
+}
+
+h2 {
+    font: normal normal normal 25px/1 FontAwesome;
+    color: lightgrey;
+    text-align: center;
+}
+
+p {
+
+    text-align: center;
+    color: white;
+    font: normal normal normal 25px/1 FontAwesome;
+
+}
+
+#nameTitle {
+    position: absolute;
+    top: 45%;
+    left: 25%;
+    width: 50%;
+}
+
+#ContactMeWhole {
+    margin-top: 22.5%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#introduction {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    width: 80%;
+}
+
+.nameTitle2,
+.nameTitle3 {
+    position: relative;
+}
+
+#topBar2 {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: darkslategrey;
+    font: normal normal normal 25px/1 FontAwesome;
+    background: rgb(236, 255, 114);
+    background: linear-gradient(37deg, #fffed9 0%, #fffead 100%);
+    padding: 1%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 3.3%;
+    border-top: black solid 1px;
+}
+
+.barText {
+    margin-right: 3%;
+}
+
+.barText2 {
+    cursor: pointer;
+    margin-right: 3%;
+}
+
+#topBar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: darkslategrey;
+    font: normal normal normal 25px/1 FontAwesome;
+    background: rgb(236, 255, 114);
+    background: linear-gradient(37deg, #fffed9 0%, #fffead 100%);
+    display: flex;
+    justify-content: flex-start;
+    padding: 1%;
+}
+
+.options {
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+.houra {
+    margin-top: 10%;
+    color: black;
+}
+
+.smallimage{
+    margin-left: 20%;
+    width: 60%;
+}
+
+.extrasmall {
+    margin-left: 20%;
+    width: 40%;
+}
+
+.hidden {
+   display: none; 
+} 
+
+.txt1 {
+    margin-left: 20%;
+    width: 60%;
+}
+
+#linked {
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+}
