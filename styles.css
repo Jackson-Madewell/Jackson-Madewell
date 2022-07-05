@@ -12,6 +12,15 @@ html {
     border-radius: 3%;
 }
 
+.ss {
+    margin-top: -80%;
+    width: 50%;
+    margin-left: 23.5%;
+    padding: 15px;
+    border-radius: 3%;
+    
+}
+
 h1 {
     color: white;
     font: normal normal normal 4rem/1 FontAwesome;
